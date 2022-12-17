@@ -1,0 +1,2 @@
+# SCApp
+Score Counter App
